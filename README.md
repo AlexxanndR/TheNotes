@@ -1,1 +1,3 @@
 # TheNotes
+
+Getting started
